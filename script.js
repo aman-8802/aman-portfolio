@@ -1,5 +1,5 @@
 // typing effect
-const text="Cloud & Backend Developer | DevOps Enthusiast";
+const text="AWS Cloud & DevOps Engineer | Terraform | Docker | Kubernetes | Automation";
 let i=0;
 const typing=document.querySelector(".typing");
 (function type(){
