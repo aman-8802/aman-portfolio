@@ -209,6 +209,7 @@ section h2 {
     grid-template-columns: 1fr;
   }
 }
+
 .hobby-card p {
   color: #ddd;
   line-height: 1.7;
