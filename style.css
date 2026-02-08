@@ -219,7 +219,7 @@ section h2 {
 .hobby-card strong {
   color: #00ffd5;
   font-weight: 500;
-}
+} 
 .hero-content {
   display: grid;
   grid-template-columns: 1fr auto;
