@@ -209,7 +209,6 @@ section h2 {
     grid-template-columns: 1fr;
   }
 }
-
 .hobby-card p {
   color: #ddd;
   line-height: 1.7;
@@ -219,7 +218,7 @@ section h2 {
 .hobby-card strong {
   color: #00ffd5;
   font-weight: 500;
-} 
+}
 .hero-content {
   display: grid;
   grid-template-columns: 1fr auto;
